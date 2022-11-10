@@ -1,5 +1,15 @@
 # Markandey Pathak
 
-![Profile](https://avatars.githubusercontent.com/u/11026617?s=400&u=3e37680e814a895516a978ff1db66f0299449c48&v=4)
-
 Full-stack Developer | JavaScript Expert | Devops Enthusiast | Tech Evangelist
+
+## Codelabs
+
+[Building offline-first apps with Flutter & Realm](https://markandeyp.github.io/flutter-shopping-list-codelab/)
+
+[Building Synced apps with Flutter & Atlas App Services](https://markandeyp.github.io/atlas-app-services-codelab/)
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/markp91/)
+
+[Twitter](https://twitter.com/i_markandey)
