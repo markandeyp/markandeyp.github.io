@@ -10,6 +10,8 @@ Full-stack Developer | JavaScript Expert | Devops Enthusiast | Tech Evangelist
 
 ## Connect with me
 
+<img src="qrcode.png" height="300" width="300" alt="LinkedIn QR Code/>
+
 [LinkedIn](https://www.linkedin.com/in/markp91/)
 
 [Twitter](https://twitter.com/i_markandey)
