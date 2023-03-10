@@ -8,6 +8,8 @@ Full-stack Developer | JavaScript Expert | Devops Enthusiast | Tech Evangelist
 
 [Building Synced apps with Flutter & Atlas App Services](https://markandeyp.github.io/atlas-app-services-codelab/)
 
+[Building Text Classifier with Flutter and TFLite](https://markandeyp.github.io/flutter-tflite-text-classifier-codelab/)
+
 ## Connect with me
 
 <img src="qrcode.png" height="300" width="300" alt="LinkedIn QR Code" />
